@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-c05gvb3xs5jwn4vd2ihwx2b8zcuxx8r">
+  <files names="Area_Editor.java:Area_EditorBuilder_a.java:Canvas_Editor.java:Canvas_EditorBuilder_a.java:Circle_Editor.java:Circle_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:Parallelogram_Editor.java:Parallelogram_EditorBuilder_a.java:Perimeter_Editor.java:Perimeter_EditorBuilder_a.java:Rectangle_Editor.java:Rectangle_EditorBuilder_a.java:ShapeInfo_Editor.java:ShapeInfo_EditorBuilder_a.java:ShapeRef_Editor.java:ShapeRef_EditorBuilder_a.java:ShapeRef_SubstituteMenu.java:Square_Editor.java:Square_EditorBuilder_a.java:Trapezium_Editor.java:Trapezium_EditorBuilder_a.java:Triangle_Editor.java:Triangle_EditorBuilder_a.java" />
+</product>
+
